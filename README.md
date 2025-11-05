@@ -1,4 +1,4 @@
-##Atividade de Visualização de Dados de Estoque com Matplotlib
+Atividade de Visualização de Dados de Estoque com Matplotlib
 
  Descrição
 - Gráfico de linha: Evolução do estoque diário
